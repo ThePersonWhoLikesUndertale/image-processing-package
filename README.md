@@ -1,7 +1,7 @@
 # image_processing
 
 Description
-The package image_processing is used to:
+The package image-processing-samuellshoiti is used to:
 	Processing:
 		- Histogram matching
 		- Structural similarity
@@ -15,14 +15,14 @@ The package image_processing is used to:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image-processing-samuellshoiti
 
 ```bash
-pip install image_processing
+pip install image-processing-samuellshoiti
 ```
 
 ## Author
-Samuell_Shoiti_Pinto_Assanuma
+Samuell Shoiti Pinto Assanuma
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
